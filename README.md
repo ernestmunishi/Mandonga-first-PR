@@ -40,6 +40,7 @@
 - **Williamu**: _A bit serious_
 - **Mavula**: *Hello everybody I am the last one*
 - **Ernestuz**: _I prefer football games to music_
+- **Denestoz**: _I_like_clicking_
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
